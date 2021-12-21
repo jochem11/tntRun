@@ -2,3 +2,6 @@ name: Tnt
 version: '${project.version}'
 main: tnt.tnt.Tnt
 api-version: 1.17
+commands:
+  tnt:
+    description: toggles tnt

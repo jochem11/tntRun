@@ -1,2 +1,8 @@
-tnt\tnt\Tnt.class
+tnt\tnt\command\TntToggle.class
+tnt\tnt\TntEvent$1.class
+tnt\tnt\TntEvent$2.class
+tnt\tnt\command\replaceTnt.class
+tnt\tnt\command\placeBlocks$1.class
 tnt\tnt\TntEvent.class
+tnt\tnt\Tnt.class
+tnt\tnt\command\placeBlocks.class
